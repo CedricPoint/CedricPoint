@@ -7,6 +7,8 @@
 - Python
 - Html / Php
 - Administration serveur 
+- Raspberry PI
+- Linux
 
 ### 🌱 Mes points forts :
 
