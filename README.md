@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon github personnel
 
-- Moi c'est Cédric, 24 ans. Actuellement en reconversion professionnel dans le milieu informatique. J'essaie de partagé au mieu mes projets et d'expliqué comment utilisé. 
+- Moi c'est Cédric, 24 ans. Actuellement en formation Technicien Informatique chez OpenClassroom. J'essaie de partagé au mieu mes projets et d'expliqué comment utilisé. 
 
 ## 👀 Mes compétences : 
 
