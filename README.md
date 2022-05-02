@@ -22,16 +22,16 @@
 - Email : cedricfrank610@gmail.com
 
 ##   Citation :
-A lire la documentation tu apprendras
-Sur ton plus fidèle ami Google tu compteras
-Les messages d’erreur tu lui enverras
-Etre attentif aux consignes tu seras
-Disposer des bonnes configurations toujours tu t'assureras
-Consulter les logs tu devras
-A chaque nouvelle étape tu testeras
-Une sauvegarde de ton travail régulièrement tu feras
-Curieux tu seras et les sujets tu creuseras
-Ne pas plagier le travail d'un autre tu devras
+A lire la documentation tu apprendras </br>
+Sur ton plus fidèle ami Google tu compteras </br>
+Les messages d’erreur tu lui enverras </br>
+Etre attentif aux consignes tu seras </br>
+Disposer des bonnes configurations toujours tu t'assureras </br>
+Consulter les logs tu devras </br>
+A chaque nouvelle étape tu testeras </br>
+Une sauvegarde de ton travail régulièrement tu feras </br>
+Curieux tu seras et les sujets tu creuseras </br>
+Ne pas plagier le travail d'un autre tu devras </br>
 Que le ping soit avec toi...
 
 <!---
