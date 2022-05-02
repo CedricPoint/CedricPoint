@@ -13,7 +13,7 @@
 ## 🌱 Mes points forts :
 
 - Travail d'équipe
-- Autonomie (effectivement j'adore travaillé seul)
+- Autonomie
 - J'aime toujours apprendre +
 
 ## 📫  Me contacter :
