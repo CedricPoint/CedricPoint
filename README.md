@@ -21,6 +21,19 @@
 - Discord : Cédron#7430
 - Email : cedricfrank610@gmail.com
 
+##   Citation :
+A lire la documentation tu apprendras
+Sur ton plus fidèle ami Google tu compteras
+Les messages d’erreur tu lui enverras
+Etre attentif aux consignes tu seras
+Disposer des bonnes configurations toujours tu t'assureras
+Consulter les logs tu devras
+A chaque nouvelle étape tu testeras
+Une sauvegarde de ton travail régulièrement tu feras
+Curieux tu seras et les sujets tu creuseras
+Ne pas plagier le travail d'un autre tu devras
+Que le ping soit avec toi...
+
 <!---
 CedricPoint/CedricPoint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
