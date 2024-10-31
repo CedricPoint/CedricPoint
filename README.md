@@ -1,38 +1,43 @@
-# 👋 Bienvenue sur mon github personnel
+# 👋 Bienvenue sur mon GitHub personnel
 
-- Moi c'est Cédric, 24 ans. Actuellement en formation Technicien Informatique chez OpenClassroom. J'essaie de partagé au mieu mes projets et d'expliqué comment utilisé. 
+Moi, c'est **Cédric Frank**, 27 ans, fondateur et CEO de [Informaclique](https://informaclique.fr), une entreprise spécialisée dans la création de sites web, le support informatique, et la cybersécurité. Sur ce profil, vous trouverez mes projets professionnels et personnels, partagés pour vous aider à comprendre et utiliser divers outils et technologies.
 
 ## 👀 Mes compétences : 
 
 - Python
-- Html / Php
-- Administration serveur 
-- Raspberry PI
+- HTML / PHP
+- JS
+- Administration serveur
+- Raspberry Pi
 - Linux
 
 ## 🌱 Mes points forts :
 
 - Travail d'équipe
 - Autonomie
-- J'aime toujours apprendre +
+- Soif d'apprentissage
 
-## 📫  Me contacter :
+## 📫 Me contacter :
 
-- Discord : Cédron#7430
-- Email : cedricfrank610@gmail.com
+- **Discord** : informaclique69
+- +33 7 66 92 54 73
+- **Email** : cedricfrank@informaclique.fr
+- **Site Web** : [Informaclique](https://informaclique.fr)
+
+---
 
 ##   Citation :
-A lire la documentation tu apprendras </br>
-Sur ton plus fidèle ami Google tu compteras </br>
-Les messages d’erreur tu lui enverras </br>
-Etre attentif aux consignes tu seras </br>
-Disposer des bonnes configurations toujours tu t'assureras </br>
-Consulter les logs tu devras </br>
-A chaque nouvelle étape tu testeras </br>
-Une sauvegarde de ton travail régulièrement tu feras </br>
-Curieux tu seras et les sujets tu creuseras </br>
-Ne pas plagier le travail d'un autre tu devras </br>
-Que le ping soit avec toi...
+> À lire la documentation tu apprendras  
+> Sur ton plus fidèle ami Google tu compteras  
+> Les messages d’erreur tu lui enverras  
+> Être attentif aux consignes tu seras  
+> Disposer des bonnes configurations toujours tu t'assureras  
+> Consulter les logs tu devras  
+> À chaque nouvelle étape tu testeras  
+> Une sauvegarde de ton travail régulièrement tu feras  
+> Curieux tu seras et les sujets tu creuseras  
+> Ne pas plagier le travail d'un autre tu devras  
+> Que le ping soit avec toi...
 
 <!---
 CedricPoint/CedricPoint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
