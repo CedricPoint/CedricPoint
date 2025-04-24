@@ -1,45 +1,62 @@
-# 👋 Bienvenue sur mon GitHub personnel
+# 👋 Bienvenue sur mon GitHub – Cédric Frank
 
-Moi, c'est **Cédric Frank**, 27 ans, fondateur et CEO de [Informaclique](https://informaclique.fr), une entreprise spécialisée dans la création de sites web, le support informatique, et la cybersécurité. Sur ce profil, vous trouverez mes projets professionnels et personnels, partagés pour vous aider à comprendre et utiliser divers outils et technologies.
+Salut, moi c’est **Cédric FRANK**, 27 ans, passionné de tech et entrepreneur dans l’âme.  
+🎯 Je suis le fondateur et CEO de [**Informaclique**](https://informaclique.fr), une entreprise qui accompagne les professionnels et les particuliers dans :
 
-## 👀 Mes compétences : 
+- 🚀 La **création de sites web** sur mesure
+- 🛠️ Le **support informatique** et la maintenance
+- 🔐 La **cybersécurité** et la sensibilisation numérique
 
-- Python
-- HTML / PHP
-- JS
-- Administration serveur
-- Raspberry Pi
-- Linux
-
-## 🌱 Mes points forts :
-
-- Travail d'équipe
-- Autonomie
-- Soif d'apprentissage
-
-## 📫 Me contacter :
-
-- **Discord** : informaclique69
-- +33 7 66 92 54 73
-- **Email** : cedricfrank@informaclique.fr
-- **Site Web** : [Informaclique](https://informaclique.fr)
+Sur ce profil GitHub, tu trouveras mes projets **professionnels** et **personnels**, que je partage avec plaisir pour contribuer à la communauté tech 💡
 
 ---
 
-##   Citation :
-> À lire la documentation tu apprendras  
-> Sur ton plus fidèle ami Google tu compteras  
-> Les messages d’erreur tu lui enverras  
-> Être attentif aux consignes tu seras  
-> Disposer des bonnes configurations toujours tu t'assureras  
-> Consulter les logs tu devras  
-> À chaque nouvelle étape tu testeras  
-> Une sauvegarde de ton travail régulièrement tu feras  
-> Curieux tu seras et les sujets tu creuseras  
-> Ne pas plagier le travail d'un autre tu devras  
-> Que le ping soit avec toi...
+## 👨‍💻 Compétences techniques
+
+- 🐍 **Python**
+- 🧱 **HTML / PHP**
+- ⚙️ **JavaScript (JS)**
+- 🔧 **Administration serveur (Linux, Debian, Hestia, etc.)**
+- 🍓 **Raspberry Pi**
+- 🐧 **Linux user confirmé**
+
+---
+
+## 🌱 Soft skills & mindset
+
+- 🤝 Esprit d'équipe
+- 🧭 Autonomie forte
+- 🚀 Apprentissage continu & curiosité tech
+- 🧠 Résolution de problèmes et logique terrain
+
+---
+
+## 📬 Me contacter
+
+- 💬 **Discord** : `informaclique69`
+- 📱 **Téléphone** : +33 7 66 92 54 73
+- ✉️ **Email** : [cedricfrank@informaclique.fr](mailto:cedricfrank@informaclique.fr)
+- 🌐 **Site Web** : [https://informaclique.fr](https://informaclique.fr)
+
+---
+
+## 📖 Citation – Le code est une quête
+
+> 📜  
+> Lire la documentation tu apprendras  
+> À ton fidèle ami Google tu recourras  
+> Les messages d'erreur tu interpréteras  
+> Les consignes tu suivras  
+> Des configurations soignées tu conserveras  
+> Les logs tu consulteras  
+> Chaque étape tu testeras  
+> Des sauvegardes régulières tu feras  
+> Curieux, tu deviendras  
+> Le travail d'autrui tu respecteras  
+> **Et que le ping soit avec toi...**
+
+---
 
 <!---
 CedricPoint/CedricPoint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
