@@ -68,7 +68,7 @@ phpMyAdmin
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CedricPoint&theme=github-compact&hide_border=true">
 </p>
 
 ---
