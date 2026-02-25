@@ -11,96 +11,118 @@
 
 ---
 
-## 👨‍💻 About Me
+# 🇫🇷 Présentation
+
+Je suis **Cédric Frank**, 28 ans.  
+Je travaille dans le **secteur de l’étanchéité** (environnement technique exigeant), et en parallèle je développe des solutions numériques orientées performance et fiabilité.
+
+Mon approche repose sur une logique simple :  
+> Concevoir des systèmes propres, robustes, sécurisés et utiles.
+
+L’expérience terrain m’a appris la rigueur, l’anticipation des risques et la gestion concrète des problématiques.  
+J’applique cette même méthodologie à l’architecture logicielle et aux infrastructures.
+
+---
+
+## 🏗️ Ce que je développe
+
+- Outils internes métiers (Python)
+- Mini-ERP (Flask + SQLite)
+- Automatisations de processus
+- Déploiement & sécurisation de serveurs Linux
+- Environnements self-hosted
+- Sites et plateformes web optimisés
+
+Objectif : **solutions pragmatiques et maintenables**.
+
+---
+
+## 🛠️ Stack Technique
+
+### Langages
+Python • PHP • JavaScript • HTML • SQL  
+
+### Systèmes & Infra
+Linux (Debian / Ubuntu)  
+Nginx • Apache • Postfix  
+Reverse proxy • VPS (Hetzner, Contabo, Hostinger)
+
+### Outils
+Git • VS Code  
+Cloudron • HestiaCP  
+Nextcloud • FreeScout • Roundcube  
+phpMyAdmin  
+
+---
+
+## ⚙️ Axes actuels
+
+- Développement d’un ERP interne
+- Optimisation d’infrastructure
+- Sécurisation d’environnements auto-hébergés
+- Automatisation métier
+- Performance & fiabilité système
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CedricPoint&show_icons=true&theme=default&hide_border=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CedricPoint&theme=default&hide_border=true" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricPoint&layout=compact&hide_border=true">
+</p>
+
+---
+
+# 🇬🇧 About Me
 
 I’m **Cédric Frank**, 28 years old.  
-I work in the **construction waterproofing industry**, a demanding technical field where precision, reliability and execution matter.
+I work in the **waterproofing construction industry**, a demanding technical environment requiring precision and reliability.
 
-Alongside my professional activity, I design and build digital solutions.
+Alongside my field work, I design and build digital systems focused on stability, security and performance.
 
-My approach is simple:
-> Build systems that are clean, stable, secure and useful.
+My philosophy:
+> Build clean systems. Secure them properly. Keep them maintainable.
 
-I apply the same rigor from field operations to software architecture and infrastructure management.
+I apply operational discipline from construction to software architecture and infrastructure engineering.
 
 ---
 
 ## 🏗️ What I Build
 
-- Custom internal tools (Python-based)
-- Automation scripts for business workflows
-- Lightweight ERP systems
-- Linux server deployments
-- Secure hosting environments
-- Web platforms for small businesses
+- Business internal tools (Python-based)
+- Lightweight ERP systems (Flask + SQLite)
+- Workflow automation
+- Linux server deployment & hardening
+- Self-hosted environments
+- Optimized web platforms
 
-I focus on **practical solutions**, not over-engineering.
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-- Python
-- PHP
-- JavaScript
-- HTML / CSS
-- SQL
-
-### Systems & Infrastructure
-- Linux (Debian / Ubuntu)
-- Nginx
-- Apache
-- Postfix
-- Reverse proxy architecture
-- VPS environments (Hetzner, Contabo, Hostinger)
-
-### Dev & Tools
-- Git
-- VS Code
-- Cloudron
-- HestiaCP
-- Nextcloud
-- FreeScout
-- Roundcube
-- phpMyAdmin
+Focus: **practical, maintainable solutions**.
 
 ---
 
-## ⚙️ Current Focus
-
-- Business process automation
-- Internal ERP development (Flask + SQLite)
-- Infrastructure optimization
-- Secure self-hosted environments
-- Performance-oriented deployments
-
----
-
-## 🎯 Professional Mindset
+## 🧠 Mindset
 
 - Structured thinking  
 - Problem-solving oriented  
-- Autonomous and analytical  
-- Continuous improvement mindset  
-- Strong operational logic  
-
-I believe technology must be:
-- Useful
-- Understandable
-- Maintainable
-- Secure
+- Continuous improvement  
+- Infrastructure-first logic  
+- Security-aware development  
 
 ---
 
 ## 📫 Contact
 
-- Website: https://informaclique.fr
-- Email: cedricfrank@informaclique.fr
-- Discord: informaclique69
+- 🌐 https://informaclique.fr  
+- ✉️ cedricfrank@informaclique.fr  
+- 💬 Discord: informaclique69  
 
 ---
 
 <p align="center">
-  <em>Build with logic. Secure with discipline. Improve continuously.</em>
+  <em>Build with structure. Automate with logic. Secure with discipline.</em>
 </p>
