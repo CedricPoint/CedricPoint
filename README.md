@@ -68,14 +68,6 @@ phpMyAdmin
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TCedricPoint&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricPoint&layout=compact&theme=github_dark&hide_border=true">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CedricPoint&color=grey&style=flat-square">
 </p>
 <p align="center">
