@@ -172,7 +172,7 @@ My philosophy:
 
 ✉️ cedricfrank@informaclique.fr  
 
-💬 Discord : informaclique69  
+💬 Discord : cedricpoint  
 
 ---
 
