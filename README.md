@@ -1,119 +1,124 @@
 <h1 align="center">Cédric Frank</h1>
 
 <p align="center">
-  IT Builder • Infrastructure • Automation • Problem Solving
+  <strong>IT Builder • Infrastructure • Automation • Systems</strong>
 </p>
 
 <p align="center">
   <a href="https://informaclique.fr" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1367079111855702036/1367079223692496997/OPT3_ICON_LOGO_TRANSPARENCY.png" alt="Informaclique" width="160">
+    <img src="[https://cdn.discordapp.com/attachments/1367079111855702036/1367079223692496997/OPT3_ICON_LOGO_TRANSPARENCY.png](https://informaclique.fr/_next/image?url=%2Flogo-80.webp&w=48&q=90)" alt="Informaclique" width="140">
   </a>
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/cedricpoint">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/☕%20Support%20my%20work-Buy%20Me%20a%20Coffee-orange?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-# 🇫🇷 Présentation
+## 🇫🇷 Présentation
 
-Je suis **Cédric Frank**, 28 ans.  
-Je travaille dans le **secteur de l’étanchéité**, un environnement technique exigeant où la rigueur et l’anticipation des problèmes sont essentielles.
+Je suis **Cédric Frank**, développeur avec une approche orientée **systèmes, infrastructure et automatisation**.
 
-En parallèle, je développe des **solutions numériques orientées automatisation, infrastructure et performance**.
+Issu du terrain (secteur étanchéité), j’ai développé une vision **pragmatique et orientée résolution de problèmes**, que j’applique aujourd’hui au développement logiciel.
 
-Ma philosophie :
+💡 Ma philosophie :
 
-> Concevoir des systèmes propres, robustes, sécurisés et réellement utiles.
-
-L’expérience terrain m’a appris la **logique opérationnelle, la gestion des risques et la résolution concrète de problèmes**.  
-J’applique cette même méthodologie au développement logiciel et aux infrastructures.
+> Concevoir des systèmes propres, robustes et réellement exploitables.
 
 ---
 
-# 🌐 Projets & Plateformes
+## 🚀 Focus actuel
+
+- Développement d’un **ERP métier (RoofPilot)**
+- Automatisation de processus
+- Infrastructure Linux & self-hosting
+- Optimisation et sécurisation de systèmes
+
+---
+
+## 🎮 FiveM Development
+
+Je développe désormais des **scripts FiveM**, avec un focus clair :
+
+- performance
+- stabilité
+- expérience utilisateur
+
+### 🔧 Stack FiveM
+
+- Lua  
+- JavaScript  
+- NUI (UI / UX)  
+- ESX / OX ecosystem  
+
+### 🎯 Positionnement
+
+Je développe uniquement des **systèmes et scripts** :
+
+- UI modernes
+- systèmes gameplay (banque, jobs, etc.)
+- intégrations propres
+
+❌ Pas de mapping / MLO  
+👉 Focus 100% **code & logique**
+
+---
+
+## 🌐 Projets
 
 🌍 https://informaclique.fr  
 💻 https://leboninformaticien.fr  
 🤖 https://bot.informaclique.fr  
 
-Ces plateformes regroupent différents projets autour de :
+---
 
-- l'infrastructure
-- l'automatisation
-- les services web
-- les outils métiers
-- les expérimentations techniques
+## 🏗️ Ce que je build
+
+- Outils métiers (Python)
+- ERP (Flask / SQLite / PostgreSQL)
+- Automatisations (n8n, APIs)
+- Déploiements VPS & sécurisation
+- Environnements self-hosted
+- Bots & services web
+
+🎯 Objectif : des systèmes **fiables, maintenables et utiles**
 
 ---
 
-# 🏗️ Ce que je développe
+## 🛠️ Stack Technique
 
-- Outils métiers internes (Python)
-- Mini-ERP (Flask + SQLite)
-- Automatisation de processus
-- Déploiement & sécurisation de serveurs Linux
-- Environnements **self-hosted**
-- Sites et plateformes web optimisés
-- Bots et outils automatisés
+### 💻 Langages
+Python • PHP • JavaScript • HTML • SQL • Lua  
 
-Objectif : **des solutions pragmatiques, fiables et maintenables**.
-
----
-
-# 🛠️ Stack Technique
-
-### Langages
-
-Python • PHP • JavaScript • HTML • SQL  
-
-### Systèmes & Infrastructure
-
+### 🧠 Backend & Infra
 Linux (Debian / Ubuntu)  
 Nginx • Apache • Postfix  
 Reverse Proxy • VPS  
 
-Providers :
+Providers :  
+Hetzner • Contabo • Hostinger  
 
-Hetzner • Contabo • Hostinger
-
-### Outils
-
+### ⚙️ Outils
 Git • VS Code • Cursor  
 
-Cloudron • HestiaCP  
+HestiaCP • Cloudron  
 
 Nextcloud • FreeScout • Roundcube  
 
-phpMyAdmin
-
 ---
 
-# ⚙️ Axes actuels
+## ☕ Support
 
-- Développement d’un **ERP interne**
-- Optimisation d’infrastructures Linux
-- Sécurisation d’environnements auto-hébergés
-- Automatisation métier
-- Architecture de systèmes performants
+Je développe des projets techniques nécessitant :
 
----
-
-# ☕ Soutenir mon travail
-
-Je développe régulièrement des **outils, scripts et projets techniques**.
-
-Ces projets demandent :
-
-- du temps de développement  
+- du temps  
 - des serveurs  
 - de la maintenance  
-- de l'expérimentation  
 
-Si **un projet t’a aidé ou inspiré**, tu peux soutenir mon travail :
+Si mon travail t’aide :
 
 <p align="center">
   <a href="https://buymeacoffee.com/cedricpoint">
@@ -121,17 +126,9 @@ Si **un projet t’a aidé ou inspiré**, tu peux soutenir mon travail :
   </a>
 </p>
 
-Chaque soutien m’aide à :
-
-- maintenir les projets en ligne  
-- financer les serveurs  
-- continuer à développer de nouveaux outils  
-
-Merci énormément 🙏
-
 ---
 
-# 📊 GitHub Analytics
+## 📊 Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CedricPoint&color=grey&style=flat-square">
@@ -143,39 +140,36 @@ Merci énormément 🙏
 
 ---
 
-# 🌍 Community
+## 🌍 Community
 
 💬 Discord :  
 https://discord.gg/P8NPUUwtYw
 
 ---
 
-# 🇬🇧 About Me
+## 🇬🇧 About
 
-I’m **Cédric Frank**, 28 years old.
+I design and build **systems focused on infrastructure, automation and performance**.
 
-I work in the **waterproofing construction industry**, a demanding technical environment requiring precision and reliability.
+Background in real-world technical environments → strong focus on:
 
-Alongside my field work, I design and build **digital systems focused on infrastructure, automation and performance**.
-
-My philosophy:
-
-> Build clean systems. Secure them properly. Keep them maintainable.
+- reliability  
+- maintainability  
+- clean architecture  
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 🌐 https://informaclique.fr  
 💻 https://leboninformaticien.fr  
 🤖 https://bot.informaclique.fr  
 
 ✉️ cedricfrank@informaclique.fr  
-
 💬 Discord : cedricpoint  
 
 ---
 
 <p align="center">
-  <em>Build with structure. Automate with logic. Secure with discipline.</em>
+  <em>Build clean systems. Keep them reliable. Scale with logic.</em>
 </p>
