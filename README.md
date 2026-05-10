@@ -1,4 +1,4 @@
-<h1 align="center">Cédric Frank</h1>
+<h1 align="center">Cédric Point</h1>
 
 <p align="center">
   <strong>IT Builder • Infrastructure • Automation • Systems</strong>
@@ -20,7 +20,7 @@
 
 ## 🇫🇷 Présentation
 
-Je suis **Cédric Frank**, développeur avec une approche orientée **systèmes, infrastructure et automatisation**.
+Je suis **Cédric Point**, développeur avec une approche orientée **systèmes, infrastructure et automatisation**.
 
 Issu du terrain (secteur étanchéité), j’ai développé une vision **pragmatique et orientée résolution de problèmes**, que j’applique aujourd’hui au développement logiciel.
 
