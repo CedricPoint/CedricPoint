@@ -24,7 +24,7 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CedricPoint&label=Profile%20views&color=0ea5e9&style=flat-square">
   <img alt="Followers" src="https://img.shields.io/github/followers/CedricPoint?label=Followers&style=flat-square&color=6366f1">
   <img alt="Stars" src="https://img.shields.io/github/stars/CedricPoint?affiliations=OWNER&style=flat-square&color=8b5cf6&label=Stars">
-  <a href="mailto:contact@cedricpoint.fr"><img alt="Email pro" src="https://img.shields.io/badge/-contact%40cedricpoint.fr-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contact@informaclique.fr"><img alt="Email pro" src="https://img.shields.io/badge/-contact%40informaclique.fr-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://discord.gg/4gx5gNNkaZ"><img alt="Discord serveur" src="https://img.shields.io/badge/-Discord%20Server-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/-Lyon%2C%20France-22c55e?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
@@ -43,7 +43,7 @@ products:    [ "RoofPilot ERP", "Cliq Discord bot", "Internet Atlas",
 focus:       SaaS multi-tenant · Automation · Self-hosting · FiveM pro
 stack:       Python · TypeScript · PHP · Lua · SQL · Bash
 philosophy:  "Build clean systems. Keep them reliable. Scale with logic."
-contact:     contact@cedricpoint.fr · @cedricpoint (Discord)
+contact:     contact@informaclique.fr · @cedricpoint (Discord)
 status:      🟢 open to freelance & technical partnerships
 ```
 
@@ -264,16 +264,11 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Open-source · épinglés
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Projets phares
 
-<p align="center">
-  <a href="https://github.com/CedricPoint/altas-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CedricPoint&repo=altas-web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9" alt="Internet Atlas">
-  </a>
-  <a href="https://github.com/CedricPoint/CedricPoint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CedricPoint&repo=CedricPoint&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9" alt="Profile config">
-  </a>
-</p>
+> Tour d'horizon de mes produits & outils, du **SaaS métier** au **bot
+> Discord premium**, en passant par les **scripts FiveM** vendus sur
+> Tebex et les **visualisations 3D** open-source.
 
 | Produit | Stack | Statut | Lien |
 |---------|-------|--------|------|
@@ -285,16 +280,29 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 | **LeBonInformaticien** — vitrine + ticketing | PHP · MySQL · FreeScout | 🟢 Live | [leboninformaticien.fr](https://leboninformaticien.fr) |
 | **Cedron Surveille v3.0** — VPS monitoring bot | discord.py · psutil · systemd | 🟢 Live (interne) | privé |
 
+<p align="center">
+  <a href="https://github.com/CedricPoint/altas-web"><img alt="altas-web repo" src="https://img.shields.io/badge/repo-altas--web-22d3ee?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/CedricPoint"><img alt="all repos" src="https://img.shields.io/badge/voir%20tous%20mes%20repos-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://cedricpoint-developpement.tebex.io/"><img alt="Tebex" src="https://img.shields.io/badge/Boutique%20FiveM%20Tebex-1B6EE8?style=for-the-badge&logo=tebex&logoColor=white"></a>
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> Stats GitHub
 
 <p align="center">
+  <img alt="Followers"      src="https://img.shields.io/github/followers/CedricPoint?style=for-the-badge&color=6366f1&label=Followers&logo=github&logoColor=white">
+  <img alt="Public repos"   src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=22d3ee&logo=github&logoColor=white&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCedricPoint">
+  <img alt="Compte créé"    src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&label=Joined&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCedricPoint">
+  <img alt="Profile views"  src="https://komarev.com/ghpvc/?username=CedricPoint&label=Views&color=0ea5e9&style=for-the-badge">
+</p>
+
+<p align="center">
   <a href="https://github.com/CedricPoint">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CedricPoint&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22d3ee" alt="stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=CedricPoint&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22d3ee&cache_seconds=14400" alt="stats">
   </a>
   <a href="https://github.com/CedricPoint">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricPoint&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="top langs">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricPoint&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8&cache_seconds=14400" alt="top langs">
   </a>
 </p>
 
@@ -304,10 +312,6 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CedricPoint&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true" alt="activity">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CedricPoint&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies">
 </p>
 
 ---
@@ -361,7 +365,7 @@ class Developer:
   <a href="https://cedricpoint.fr"><img alt="cedricpoint.fr" src="https://img.shields.io/badge/-cedricpoint.fr-0f172a?style=for-the-badge&logo=githubsponsors&logoColor=22d3ee"></a>
   <a href="https://informaclique.fr"><img alt="informaclique.fr" src="https://img.shields.io/badge/-informaclique.fr-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://leboninformaticien.fr"><img alt="leboninformaticien.fr" src="https://img.shields.io/badge/-leboninformaticien.fr-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:contact@cedricpoint.fr"><img alt="email pro" src="https://img.shields.io/badge/-contact%40cedricpoint.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contact@informaclique.fr"><img alt="email pro" src="https://img.shields.io/badge/-contact%40informaclique.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.gg/4gx5gNNkaZ"><img alt="Discord serveur" src="https://img.shields.io/badge/-discord.gg%2F4gx5gNNkaZ-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://discord.com/users/cedricpoint"><img alt="Discord cedricpoint" src="https://img.shields.io/badge/-@cedricpoint-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://cedricpoint-developpement.tebex.io/"><img alt="Tebex" src="https://img.shields.io/badge/-Tebex%20shop-1B6EE8?style=for-the-badge&logo=tebex&logoColor=white"></a>
@@ -407,7 +411,7 @@ Currently shipping:
   marketing/admin platform
 
 Open to freelance missions and technical partnerships — feel free to
-reach out at `contact@cedricpoint.fr` or on Discord.
+reach out at `contact@informaclique.fr` or on Discord.
 
 </details>
 
