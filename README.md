@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/CedricPoint">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Cliq+%E2%80%94+bot+Discord+100%2B+commandes;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Toastie+%E2%80%94+bot+Discord+100%2B+commandes;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://cedricpoint.fr"><img alt="CedricPoint" src="https://img.shields.io/badge/cedricpoint.fr-0f172a?style=for-the-badge&logo=githubsponsors&logoColor=22d3ee"></a>
   <a href="https://informaclique.fr"><img alt="Informaclique" src="https://img.shields.io/badge/Informaclique-0ea5e9?style=for-the-badge&logo=icloud&logoColor=white"></a>
   <a href="https://leboninformaticien.fr"><img alt="LeBonInformaticien" src="https://img.shields.io/badge/LeBonInformaticien-22c55e?style=for-the-badge&logo=expertsexchange&logoColor=white"></a>
-  <a href="https://bot.informaclique.fr"><img alt="Cliq Bot" src="https://img.shields.io/badge/Cliq%20Bot-5865F2?style=for-the-badge&logo=probot&logoColor=white"></a>
+  <a href="https://toastie.fr"><img alt="Toastie Bot" src="https://img.shields.io/badge/Toastie%20Bot-5865F2?style=for-the-badge&logo=probot&logoColor=white"></a>
   <a href="https://roofpilot.fr"><img alt="RoofPilot" src="https://img.shields.io/badge/RoofPilot-0b0e13?style=for-the-badge&logo=googleearth&logoColor=22d3ee"></a>
   <a href="https://atlas.informaclique.fr"><img alt="Internet Atlas" src="https://img.shields.io/badge/Internet%20Atlas-020617?style=for-the-badge&logo=cesium&logoColor=22d3ee"></a>
   <a href="https://cedricpoint-developpement.tebex.io/"><img alt="Tebex shop" src="https://img.shields.io/badge/Tebex%20Shop-1B6EE8?style=for-the-badge&logo=tebex&logoColor=white"></a>
@@ -38,7 +38,7 @@ name:        Cédric Point
 role:        IT Builder · Backend & Systems Developer
 location:    Lyon, France 🇫🇷
 company:     Informaclique · CedricPoint Développement
-products:    [ "RoofPilot ERP", "Cliq Discord bot", "Internet Atlas",
+products:    [ "RoofPilot ERP", "Toastie Discord bot", "Internet Atlas",
                "FiveM scripts (Tebex)", "LeBonInformaticien" ]
 focus:       SaaS multi-tenant · Automation · Self-hosting · FiveM pro
 stack:       Python · TypeScript · PHP · Lua · SQL · Bash
@@ -72,8 +72,8 @@ maintenance toiture.
     </td>
     <td valign="top" width="50%">
 
-### 🤖 Cliq Discord Bot&nbsp;·&nbsp;[`bot.informaclique.fr`](https://bot.informaclique.fr)
-**Bot Discord tout-en-un** v4.2.8 — produit commercial avec premium auto.
+### 🤖 Toastie Discord Bot&nbsp;·&nbsp;[`toastie.fr`](https://toastie.fr)
+**Bot Discord tout-en-un** v4.24.0 — produit commercial avec premium auto.
 
 - `Node.js` · `discord.js v14` · `better-sqlite3 WAL` · `Express` · `PM2`
 - **100+ commandes slash, 33 modules** (modération, économie, tickets,
@@ -274,7 +274,7 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 |---------|-------|--------|------|
 | **Internet Atlas** — globe 3D + API GeoIP/DNS | React · three.js · FastAPI · Nginx | 🟢 Live | [atlas.informaclique.fr](https://atlas.informaclique.fr) · [code](https://github.com/CedricPoint/altas-web) |
 | **RoofPilot ERP** — SaaS multi-tenant étanchéité | FastAPI · SQLAlchemy 2 · PostgreSQL · React/Vite | 🟡 Build privé | [roofpilot.fr](https://roofpilot.fr) |
-| **Cliq Bot** — Discord 100+ slash, Stripe premium | discord.js v14 · better-sqlite3 · PM2 · Stripe | 🟢 Live | [bot.informaclique.fr](https://bot.informaclique.fr) |
+| **Toastie Bot** — Discord 100+ slash, Stripe premium | discord.js v14 · better-sqlite3 · PM2 · Stripe | 🟢 Live | [toastie.fr](https://toastie.fr) |
 | **Informaclique Platform** — Next.js + Prisma + RBAC | Next 14 · Prisma · NextAuth · OpenAI | 🟢 Live | [informaclique.fr](https://informaclique.fr) |
 | **FiveM scripts** — ESX/QBCore/Qbox production | Lua · ox_lib · oxmysql · NUI React | 🟢 Vente | [Tebex](https://cedricpoint-developpement.tebex.io/) |
 | **LeBonInformaticien** — vitrine + ticketing | PHP · MySQL · FreeScout | 🟢 Live | [leboninformaticien.fr](https://leboninformaticien.fr) |
@@ -312,6 +312,15 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CedricPoint&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true" alt="activity">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CedricPoint&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophées GitHub">
+</p>
+
+<!-- Snake des contributions — SVG généré par .github/workflows/snake.yml sur la branche `output`. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CedricPoint/CedricPoint/output/github-snake-dark.svg" alt="animation snake des contributions GitHub">
 </p>
 
 ---
@@ -401,7 +410,7 @@ clean architecture**.
 Currently shipping:
 - **RoofPilot ERP** — multi-tenant SaaS for roofing/waterproofing pros
   (FastAPI + SQLAlchemy 2 + PostgreSQL + Vite/React)
-- **Cliq** — full-featured Discord bot (100+ slash commands, 33 modules,
+- **Toastie** — full-featured Discord bot (100+ slash commands, 33 modules,
   Stripe premium, web admin panel)
 - **Internet Atlas** — 3D interactive map of internet infrastructure
   (React + three.js + FastAPI GeoIP)
