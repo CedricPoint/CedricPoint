@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/CedricPoint">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Toastie+%E2%80%94+bot+Discord+100%2B+commandes;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Toastie+%E2%80%94+bot+Discord+v4.33;14+outils+open+source+MIT+%C2%B7+z%C3%A9ro+d%C3%A9pendance;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
   </a>
 </p>
 
@@ -40,6 +40,7 @@ location:    Lyon, France 🇫🇷
 company:     Informaclique · CedricPoint Développement
 products:    [ "RoofPilot ERP", "Toastie Discord bot", "Internet Atlas",
                "FiveM scripts (Tebex)", "LeBonInformaticien" ]
+open_source: 14 outils MIT · zéro dépendance, zéro étape de build
 focus:       SaaS multi-tenant · Automation · Self-hosting · FiveM pro
 stack:       Python · TypeScript · PHP · Lua · SQL · Bash
 philosophy:  "Build clean systems. Keep them reliable. Scale with logic."
@@ -73,14 +74,15 @@ maintenance toiture.
     <td valign="top" width="50%">
 
 ### 🤖 Toastie Discord Bot&nbsp;·&nbsp;[`toastie.fr`](https://toastie.fr)
-**Bot Discord tout-en-un** v4.24.0 — produit commercial avec premium auto.
+**Bot Discord tout-en-un** v4.33.0 — produit commercial avec premium auto.
 
 - `Node.js` · `discord.js v14` · `better-sqlite3 WAL` · `Express` · `PM2`
-- **100+ commandes slash, 33 modules** (modération, économie, tickets,
-  music, jeux, RSS, Twitch, prise de service…)
+- **33 modules** (modération, économie, tickets, music, jeux, RSS, Twitch,
+  prise de service…), commandes regroupées en sous-commandes — Discord
+  plafonne à 100 commandes par application
 - **Panel web** (OAuth2 Discord + JWT + SSE monitoring temps réel)
 - **Premium auto via Stripe** (abos, lifetime, past_due, downgrade)
-- Architecture **plugins** extensible
+- Disponibilité publique : [`status.toastie.fr`](https://status.toastie.fr)
 
     </td>
   </tr>
@@ -141,6 +143,62 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 > **erp-etancheite.fr** (vitrine SEO) · **facturation.informaclique.fr**
 > (Invoice Ninja self-hosted) · stack mail complète (Postfix + Dovecot +
 > Roundcube + Nextcloud).
+
+---
+
+<a id="open-source"></a>
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Open source · 14 outils, licence MIT
+
+> Des outils que j'ai écrits parce que j'en avais besoin, publiés parce
+> qu'ils peuvent servir à d'autres. **Zéro dépendance, zéro étape de
+> build** dans tous les cas, et rien n'appelle le réseau sauf quand c'est
+> le sujet.
+
+<details open>
+<summary><b>Dans un terminal</b></summary>
+<br/>
+
+| Outil | Ce qu'il fait | Stack |
+|-------|---------------|-------|
+| [`cmdguard`](https://github.com/CedricPoint/cmdguard) | Un deuxième regard sur les commandes shell que lance un agent IA — CLI + hook Claude Code | Node |
+| [`git-undo`](https://github.com/CedricPoint/git-undo) | Lit ton reflog et te donne la commande exacte qui annule ce que tu viens de faire | Node |
+| [`git-heat`](https://github.com/CedricPoint/git-heat) | Le code qui va te faire mal : points chauds, couplage caché, îlots de savoir, bus factor | Node |
+| [`git-cinema`](https://github.com/CedricPoint/git-cinema) | Transforme un historique git en film : lecteur HTML autonome, enregistrable en 1080p | Node |
+| [`shell-wrapped`](https://github.com/CedricPoint/shell-wrapped) | Le « Wrapped » de ton terminal : stats d'historique hors ligne + carte à poster | Node |
+| [`pullback`](https://github.com/CedricPoint/pullback) | Sauvegarder des serveurs entiers sur une machine chez soi, **en tirant** — un serveur compromis ne peut pas toucher ses copies | Bash · ssh · rsync |
+| [`frontdoor`](https://github.com/CedricPoint/frontdoor) | Audit TLS, redirections, en-têtes et cookies d'un site — et les lignes nginx / Caddy / Apache qui corrigent | Node |
+
+</details>
+
+<details open>
+<summary><b>Dans le navigateur</b> — tout se calcule chez toi, rien n'est envoyé</summary>
+<br/>
+
+| Outil | Ce qu'il fait | Démo |
+|-------|---------------|------|
+| [`whatsthisid`](https://github.com/CedricPoint/whatsthisid) | Ce qu'est un identifiant opaque (UUID, ULID, Snowflake, JWT, clés d'API), quand il a été créé et ce qu'il révèle | [essayer](https://cedricpoint.github.io/whatsthisid/?lang=fr) |
+| [`exif-scrub`](https://github.com/CedricPoint/exif-scrub) | Voir ce que racontent tes photos — GPS, numéro de série — et le retirer sans réencoder un pixel | [essayer](https://cedricpoint.github.io/exif-scrub/) |
+| [`roast-mon-github`](https://github.com/CedricPoint/roast-mon-github) | Tape un pseudo GitHub, prends-toi un roast, récupère ta carte de dev | [essayer](https://cedricpoint.github.io/roast-mon-github/) |
+| [`ponts-jours-feries`](https://github.com/CedricPoint/ponts-jours-feries) | Quels jours de congés poser en 2027 pour maximiser ses vacances | [essayer](https://cedricpoint.github.io/ponts-jours-feries/) |
+| [`ma-vie-en-chiffres`](https://github.com/CedricPoint/ma-vie-en-chiffres) | Ton âge en jours, en secondes et en battements de cœur, ta vie en semaines | [essayer](https://cedricpoint.github.io/ma-vie-en-chiffres/) |
+| [`chantier-3-lettres`](https://github.com/CedricPoint/chantier-3-lettres) | 9 questions, 3 lettres, 1 verdict : quel artisan du BTP es-tu ? | [essayer](https://cedricpoint.github.io/chantier-3-lettres/) |
+
+</details>
+
+<details open>
+<summary><b>FiveM</b></summary>
+<br/>
+
+| Ressource | Ce qu'elle fait | Stack |
+|-----------|-----------------|-------|
+| [`fivem-cockpit`](https://github.com/CedricPoint/fivem-cockpit) | Contrôles véhicule standalone : portes, vitres, sièges, moteur, clignotants, régulateur. Aucun framework, aucune dépendance | Lua |
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/CedricPoint?tab=repositories&type=source"><img alt="tous les dépôts publics" src="https://img.shields.io/badge/tous%20mes%20d%C3%A9p%C3%B4ts%20publics-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
@@ -266,23 +324,23 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Projets phares
 
-> Tour d'horizon de mes produits & outils, du **SaaS métier** au **bot
-> Discord premium**, en passant par les **scripts FiveM** vendus sur
-> Tebex et les **visualisations 3D** open-source.
+> Tour d'horizon de mes produits, du **SaaS métier** au **bot Discord
+> premium**, en passant par les **scripts FiveM** vendus sur Tebex.
+> Ce sont des produits commerciaux : **le code est fermé** sauf mention
+> contraire — ce qui est ouvert est [plus haut](#open-source).
 
-| Produit | Stack | Statut | Lien |
-|---------|-------|--------|------|
-| **Internet Atlas** — globe 3D + API GeoIP/DNS | React · three.js · FastAPI · Nginx | 🟢 Live | [atlas.informaclique.fr](https://atlas.informaclique.fr) · [code](https://github.com/CedricPoint/altas-web) |
-| **RoofPilot ERP** — SaaS multi-tenant étanchéité | FastAPI · SQLAlchemy 2 · PostgreSQL · React/Vite | 🟡 Build privé | [roofpilot.fr](https://roofpilot.fr) |
-| **Toastie Bot** — Discord 100+ slash, Stripe premium | discord.js v14 · better-sqlite3 · PM2 · Stripe | 🟢 Live | [toastie.fr](https://toastie.fr) |
-| **Informaclique Platform** — Next.js + Prisma + RBAC | Next 14 · Prisma · NextAuth · OpenAI | 🟢 Live | [informaclique.fr](https://informaclique.fr) |
-| **FiveM scripts** — ESX/QBCore/Qbox production | Lua · ox_lib · oxmysql · NUI React | 🟢 Vente | [Tebex](https://cedricpoint-developpement.tebex.io/) |
-| **LeBonInformaticien** — vitrine + ticketing | PHP · MySQL · FreeScout | 🟢 Live | [leboninformaticien.fr](https://leboninformaticien.fr) |
-| **Cedron Surveille v3.0** — VPS monitoring bot | discord.py · psutil · systemd | 🟢 Live (interne) | privé |
+| Produit | Stack | En ligne | Code |
+|---------|-------|----------|------|
+| **Internet Atlas** — globe 3D + API GeoIP/DNS | React · three.js · FastAPI · Nginx | 🟢 [atlas.informaclique.fr](https://atlas.informaclique.fr) | 🔓 [`altas-web`](https://github.com/CedricPoint/altas-web) |
+| **RoofPilot ERP** — SaaS multi-tenant étanchéité | FastAPI · SQLAlchemy 2 · PostgreSQL · React/Vite | 🟢 [roofpilot.fr](https://roofpilot.fr) | 🔒 privé |
+| **Toastie Bot** — Discord, 33 modules, Stripe premium | discord.js v14 · better-sqlite3 · PM2 · Stripe | 🟢 [toastie.fr](https://toastie.fr) · [statut](https://status.toastie.fr) | 🔒 privé |
+| **Informaclique Platform** — Next.js + Prisma + RBAC | Next 14 · Prisma · NextAuth · OpenAI | 🟢 [informaclique.fr](https://informaclique.fr) | 🔒 privé |
+| **FiveM scripts** — ESX/QBCore/Qbox production | Lua · ox_lib · oxmysql · NUI React | 🛒 [Tebex](https://cedricpoint-developpement.tebex.io/) | 🔒 payant · un standalone [ouvert](https://github.com/CedricPoint/fivem-cockpit) |
+| **LeBonInformaticien** — vitrine + ticketing | PHP · MySQL · FreeScout | 🟢 [leboninformaticien.fr](https://leboninformaticien.fr) | 🔒 privé |
+| **Cedron Surveille v3.0** — monitoring VPS par Discord | discord.py · psutil · systemd | ⚙️ interne, pas public | 🔒 privé |
 
 <p align="center">
-  <a href="https://github.com/CedricPoint/altas-web"><img alt="altas-web repo" src="https://img.shields.io/badge/repo-altas--web-22d3ee?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/CedricPoint"><img alt="all repos" src="https://img.shields.io/badge/voir%20tous%20mes%20repos-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/CedricPoint?tab=repositories&type=source"><img alt="dépôts publics" src="https://img.shields.io/badge/mes%20d%C3%A9p%C3%B4ts%20publics-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://cedricpoint-developpement.tebex.io/"><img alt="Tebex" src="https://img.shields.io/badge/Boutique%20FiveM%20Tebex-1B6EE8?style=for-the-badge&logo=tebex&logoColor=white"></a>
 </p>
 
@@ -407,17 +465,32 @@ Based in **Lyon, France**, coming from real-world technical environments
 (waterproofing industry), I focus on **reliability, maintainability and
 clean architecture**.
 
-Currently shipping:
+Currently shipping (commercial products, closed source):
 - **RoofPilot ERP** — multi-tenant SaaS for roofing/waterproofing pros
   (FastAPI + SQLAlchemy 2 + PostgreSQL + Vite/React)
-- **Toastie** — full-featured Discord bot (100+ slash commands, 33 modules,
-  Stripe premium, web admin panel)
+- **Toastie** — full-featured Discord bot, v4.33 (33 modules, Stripe
+  premium, web admin panel) — [status page](https://status.toastie.fr)
 - **Internet Atlas** — 3D interactive map of internet infrastructure
-  (React + three.js + FastAPI GeoIP)
+  (React + three.js + FastAPI GeoIP), [code is open](https://github.com/CedricPoint/altas-web)
 - **FiveM scripts** — production-ready ESX Legacy / QBCore / Qbox
   resources sold on Tebex
 - **Informaclique Platform** — Next.js 14 + Prisma + NextAuth rebrandable
   marketing/admin platform
+
+Open source — 14 MIT tools, **no dependencies and no build step**, and
+nothing on the network unless that is the point of the tool:
+
+- **[cmdguard](https://github.com/CedricPoint/cmdguard)** — a second pair of eyes on the shell commands your AI agent runs
+- **[git-undo](https://github.com/CedricPoint/git-undo)** — reads your reflog, prints the exact command that undoes the last thing you did
+- **[git-heat](https://github.com/CedricPoint/git-heat)** — hotspots, hidden coupling and bus factor, from your git history
+- **[git-cinema](https://github.com/CedricPoint/git-cinema)** — turns a git history into a film you can record to 1080p
+- **[shell-wrapped](https://github.com/CedricPoint/shell-wrapped)** — Spotify Wrapped for your shell history, offline
+- **[pullback](https://github.com/CedricPoint/pullback)** — back up whole servers by *pulling*, so a compromised server cannot reach its own copies
+- **[frontdoor](https://github.com/CedricPoint/frontdoor)** — TLS, redirects, headers and cookies, plus the nginx/Caddy/Apache lines that fix them
+- **[whatsthisid](https://cedricpoint.github.io/whatsthisid/)** — what an opaque identifier is, when it was made and what it gives away
+- **[exif-scrub](https://cedricpoint.github.io/exif-scrub/)** — see and strip photo metadata without re-encoding a pixel
+- **[fivem-cockpit](https://github.com/CedricPoint/fivem-cockpit)** — standalone FiveM vehicle controls, no framework
+- …plus four small French-language browser toys
 
 Open to freelance missions and technical partnerships — feel free to
 reach out at `contact@informaclique.fr` or on Discord.
