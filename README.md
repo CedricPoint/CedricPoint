@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/CedricPoint">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Toastie+%E2%80%94+bot+Discord+v4.33;14+outils+open+source+MIT+%C2%B7+z%C3%A9ro+d%C3%A9pendance;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Backend+%26+Systems+Developer;Building+RoofPilot+ERP+%E2%80%94+SaaS+multi-tenant;Shipping+Toastie+%E2%80%94+bot+Discord+v4.33;15+outils+open+source+MIT+%C2%B7+z%C3%A9ro+d%C3%A9pendance;Internet+Atlas+%E2%80%94+globe+3D+%2B+API+GeoIP;FiveM+ESX+Legacy+%2F+QBCore+%2F+ox_lib+pro;Self-hosted+Linux+%C2%B7+Nginx+%C2%B7+systemd+%C2%B7+PM2;Clean+code.+Reliable+systems.+Real+ops." alt="typing">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ location:    Lyon, France 🇫🇷
 company:     Informaclique · CedricPoint Développement
 products:    [ "RoofPilot ERP", "Toastie Discord bot", "Internet Atlas",
                "FiveM scripts (Tebex)", "LeBonInformaticien" ]
-open_source: 14 outils MIT · zéro dépendance, zéro étape de build
+open_source: 15 outils MIT · zéro dépendance, zéro étape de build
 focus:       SaaS multi-tenant · Automation · Self-hosting · FiveM pro
 stack:       Python · TypeScript · PHP · Lua · SQL · Bash
 philosophy:  "Build clean systems. Keep them reliable. Scale with logic."
@@ -148,7 +148,7 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 <a id="open-source"></a>
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Open source · 14 outils, licence MIT
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Open source · 15 outils, licence MIT
 
 > Des outils que j'ai écrits parce que j'en avais besoin, publiés parce
 > qu'ils peuvent servir à d'autres. **Zéro dépendance, zéro étape de
@@ -192,6 +192,7 @@ Plateforme marketing + admin **rebrandable** pour clients ERP/IT.
 
 | Ressource | Ce qu'elle fait | Stack |
 |-----------|-----------------|-------|
+| [`fivem-doorman`](https://github.com/CedricPoint/fivem-doorman) | Une règle devant chaque net event : débit, délai et schéma du contenu, pour qu'un client ne déclenche pas ce qu'il veut aussi vite qu'il veut. 86 tests | Lua |
 | [`fivem-cockpit`](https://github.com/CedricPoint/fivem-cockpit) | Contrôles véhicule standalone : portes, vitres, sièges, moteur, clignotants, régulateur. Aucun framework, aucune dépendance | Lua |
 
 </details>
@@ -477,7 +478,7 @@ Currently shipping (commercial products, closed source):
 - **Informaclique Platform** — Next.js 14 + Prisma + NextAuth rebrandable
   marketing/admin platform
 
-Open source — 14 MIT tools, **no dependencies and no build step**, and
+Open source — 15 MIT tools, **no dependencies and no build step**, and
 nothing on the network unless that is the point of the tool:
 
 - **[cmdguard](https://github.com/CedricPoint/cmdguard)** — a second pair of eyes on the shell commands your AI agent runs
@@ -489,6 +490,7 @@ nothing on the network unless that is the point of the tool:
 - **[frontdoor](https://github.com/CedricPoint/frontdoor)** — TLS, redirects, headers and cookies, plus the nginx/Caddy/Apache lines that fix them
 - **[whatsthisid](https://cedricpoint.github.io/whatsthisid/)** — what an opaque identifier is, when it was made and what it gives away
 - **[exif-scrub](https://cedricpoint.github.io/exif-scrub/)** — see and strip photo metadata without re-encoding a pixel
+- **[fivem-doorman](https://github.com/CedricPoint/fivem-doorman)** — a rate, a cooldown and a schema in front of every FiveM net event
 - **[fivem-cockpit](https://github.com/CedricPoint/fivem-cockpit)** — standalone FiveM vehicle controls, no framework
 - …plus four small French-language browser toys
 
